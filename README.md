@@ -1,4 +1,4 @@
-# sync2switches
+# Sync2switches for HomeAssistant
 Need to import blueprint from Git
 
 This script sync 2 switch status in home assistant automation
